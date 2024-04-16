@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+🌱I'm an enthusiastic learner with a year of experience in web development. Skilled in the fundamentals of HTML, CSS, and JavaScript. Currently exploring front-end frameworks like ReactJS and back-end technologies like NodeJS and ExpressJS.
+👯 I’m looking and opened to collaboration on open-source projects.
+📫 You can reach me on: 
+  - Whatsapp - +2349097124972
+  - Email    -  uchekelechi002@gmail.com
+  - LinkedIn -  linkedin.com/in/kelechi-uche-2b9515112
 
 <!--
 **Uckcee/Uckcee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
